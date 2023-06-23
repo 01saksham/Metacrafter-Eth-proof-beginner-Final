@@ -1,6 +1,6 @@
 # Ember Token Solidity Contract
 
-The Ember Token Solidity Contract is a smart contract written in Solidity, designed to facilitate the creation and management of the Ember (EMB) token on the Ethereum blockchain. This README provides an overview of the purpose and functionality of the Ember Token Contract.
+The Ember Token Solidity Contract is a smart contract written in Solidity, designed to facilitate the creation and management of the Ember (EMB) token. This README provides an overview of the purpose and functionality of the Ember Token Contract.
 
 ## Description
 
